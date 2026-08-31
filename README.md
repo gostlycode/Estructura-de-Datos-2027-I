@@ -8,5 +8,7 @@ Repositorio de las tareas correspondientes a la materia de Estructura de Datos.
 
 [Ver Tarea 1](./Tarea1)
 
-### Tarea 2 — 
+### Tarea 2 — ArrayADT nómina empleados
+
+[Ver Tarea 2](./Tarea2)
 
