@@ -1,9 +1,9 @@
-public class EmpleadoADT {
+public class NominaICO {
 
     private ArrayADT<Empleado> empleados;
     private int cantidad;
 
-    public EmpleadoADT(int capacidad) {
+    public NominaICO(int capacidad) {
         empleados = new ArrayADT<>(capacidad);
         cantidad = 0;
     }

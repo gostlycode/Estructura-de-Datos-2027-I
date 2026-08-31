@@ -5,7 +5,7 @@ public class Main {
         int anioActual = 2026;
 
         // Leer empleados del archivo
-        EmpleadoADT empleados =
+        NominaICO empleados =
                 ArchivoEmpleado.leerArchivo("data/junio.dat");
 
         // Cantidad de empleados

@@ -3,9 +3,9 @@ import java.io.FileReader;
 
 public class ArchivoEmpleado {
 
-    public static EmpleadoADT leerArchivo(String nombreArchivo) throws Exception {
+    public static NominaICO leerArchivo(String nombreArchivo) throws Exception {
 
-        EmpleadoADT empleados = new EmpleadoADT(100);
+        NominaICO empleados = new NominaICO(100);
 
         FileReader archivo = new FileReader(nombreArchivo);
         BufferedReader lector = new BufferedReader(archivo);
