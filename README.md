@@ -12,3 +12,7 @@ Repositorio de las tareas correspondientes a la materia de Estructura de Datos.
 
 [Ver Tarea 2](./Tarea2)
 
+### Tarea 3 — Ajedrez y GameOfLife
+
+[Ver Tarea 3](./Tarea3)
+
