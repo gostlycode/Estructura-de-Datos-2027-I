@@ -16,3 +16,6 @@ Repositorio de las tareas correspondientes a la materia de Estructura de Datos.
 
 [Ver Tarea 3](./Tarea3)
 
+### Tarea 4 — Caso de uso de conjuntos
+
+[Ver Tarea 4](./Tarea4)
