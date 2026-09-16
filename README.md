@@ -19,3 +19,7 @@ Repositorio de las tareas correspondientes a la materia de Estructura de Datos.
 ### Tarea 4 — Caso de uso de conjuntos
 
 [Ver Tarea 4](./Tarea4)
+
+### Tarea 5 — Ejercicios con la clase Nodo
+
+[Ver Tarea 5](./Tarea5)
