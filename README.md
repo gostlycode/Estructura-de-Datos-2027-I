@@ -23,3 +23,7 @@ Repositorio de las tareas correspondientes a la materia de Estructura de Datos.
 ### Tarea 5 — Ejercicios con la clase Nodo
 
 [Ver Tarea 5](./Tarea5)
+
+### Tarea 7 — Estructura de datos de diapositivas
+
+[Ver Tarea 7](./Tarea7)
