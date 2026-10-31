@@ -6,14 +6,14 @@ import java.util.List;
 
 public class VentanaLaberinto extends JFrame {
 
-    private static final Color COLOR_MURO = new Color(20, 10, 30);          // negro morado oscuro
-    private static final Color COLOR_LIBRE = new Color(255, 120, 0);        // naranja calabaza
-    private static final Color COLOR_ENTRADA = new Color(130, 120, 140);  // gris fantasma
-    private static final Color COLOR_SALIDA = new Color(255, 120, 0);        // naranja calabaza
-    private static final Color COLOR_CAMINO = new Color(80, 200, 60);        // verde slime
-    private static final Color COLOR_ACTUAL = new Color(200, 20, 20);        // rojo sangre
-    private static final Color COLOR_DESCARTADO =new Color(130, 50, 200);      // morado brujo
-    private static final Color COLOR_GANADOR = new Color(255, 170, 0);       // dorado calabaza
+    private static final Color COLOR_MURO = new Color(20, 10, 30);        
+    private static final Color COLOR_LIBRE = new Color(255, 120, 0);      
+    private static final Color COLOR_ENTRADA = new Color(130, 120, 140);  
+    private static final Color COLOR_SALIDA = new Color(255, 120, 0);       
+    private static final Color COLOR_CAMINO = new Color(80, 200, 60);      
+    private static final Color COLOR_ACTUAL = new Color(200, 20, 20);     
+    private static final Color COLOR_DESCARTADO =new Color(130, 50, 200);     
+    private static final Color COLOR_GANADOR = new Color(255, 170, 0);     
 
     private final Solucionador[] solucionadores;
     private final Laberinto laberinto;
