@@ -27,3 +27,7 @@ Repositorio de las tareas correspondientes a la materia de Estructura de Datos.
 ### Tarea 7 — Estructura de datos de diapositivas
 
 [Ver Tarea 7](./Tarea7)
+
+### Tarea Opcional — Laberintos con backtracking
+
+[Ver Tarea Opcional](./TareaLaberintos)
